@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>BlackBerry - {{ page.title }}</title>
+		<title>{{ page.title }}</title>
 		<link href="css/github.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
@@ -8,15 +8,33 @@
 			<div class="logo">&nbsp;</div>
 		</div>
 		<div class="center">
-			<div class="content">
+			<table class="content">
+				<tr>
+					<td valign="top" class="content-column">
+						<div>
 
-				  {{ content }}
-				  
-				 
+							  {{ content }}
+							  
+							 
+						</div>
+					</td>
+					<td valign="top" class="menu-column">
+						<div class="menu">
+							<div class="menu-header">Collaboration</div>
+							<div class="menu-item">Contributing</div>
+							<div class="menu-item">Governance</div>
+							<div class="menu-header">Projects</div>
+							<div class="menu-item">BlackBerry WebWorks</div>
+							<div class="menu-item">Ripple</div>
+						</div>
+					</td>
+				<tr>
+			</table>
+			<div class="footer">
+				<div style="border-style: none none dashed none; border-width: 1px; border-color: Silver;margin-top: 40px;"></div>
+				<p style="font-size: 8.5pt;color:Gray;text-decoration:italics;text-align: center;">Copyright 1999-2011 Research In Motion Limited. 295 Phillip Street, Waterloo, Ontario, Canada, N2L 3W8. All Rights Reserved.</p>
 			</div>
 		</div>
-		<div class="footer">
 		
-		</div>
 	</body>
 </html>
