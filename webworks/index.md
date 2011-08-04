@@ -59,8 +59,5 @@ BlackBerry WebWorks is a unique platform in the mobile market and is designed to
     * We are also open sourcing this web application platform here under the Apache 2.0 license, so developers can be a driving force in its future.
     * This new BlackBerry web application platform is open in every way possible.
 
-## Architecture Diagram
-
-![Architecture Diagram](https://github.com/blackberry/WebWorks/wiki/architecture.png)
 
 
