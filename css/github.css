@@ -61,6 +61,19 @@ a:visited
 	cursor: hand;
 }
 
+.github-logo
+{
+	position: absolute;
+	top: 15px;
+	height: 50px;
+	width: 111px;
+	background-image: url('../images/github-logo.png');
+	background-repeat: no-repeat;
+	left: 50%;
+    margin-left: 371px;
+	cursor: hand;
+}
+
 .center
 {
 	position: absolute;
