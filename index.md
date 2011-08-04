@@ -1,8 +1,8 @@
 ---
-title: Home
+title: BlackBerry Open Source
 layout: default
 ---
 
-# Hello World
+# Open Source at BlackBerry
 
 This is my attempt at a first page
