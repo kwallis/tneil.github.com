@@ -1,5 +1,5 @@
 ---
-title: BlackBerry WebWorks
+title: Approved Signatories
 layout: default
 ---
 

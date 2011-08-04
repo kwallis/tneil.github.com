@@ -8,7 +8,7 @@ layout: default
 **Roadmap and Progress:**
 
 * [Latest News](https://github.com/blackberry/WebWorks/wiki/Latest-News-for-BlackBerry-WebWorks-OSS)
-* [Roadmap](https://github.com/blackberry/WebWorks/wiki/Roadmap)
+* [Roadmap](roadmap.html)
 * [Enhancement Candidates](https://github.com/blackberry/WebWorks/wiki/Enhancement-Candidates)
 
 **Contributing:**
