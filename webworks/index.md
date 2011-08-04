@@ -13,7 +13,6 @@ layout: default
 
 **Contributing:**
 
-* [How To Contribute](https://github.com/blackberry/WebWorks/wiki/How-to-Contribute)
 * [BlackBerry WebWorks Contributors](https://github.com/blackberry/WebWorks/wiki/BlackBerry-WebWorks-Contributors)
 * [RIM Approved Signatories](https://github.com/blackberry/WebWorks/wiki/Approved-Signatories)
 * [User Forums](http://supportforums.blackberry.com/t5/Web-Development/bd-p/browser_dev)
