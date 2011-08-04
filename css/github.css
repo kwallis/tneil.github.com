@@ -16,8 +16,8 @@ body, html
 
 .center
 {
-	position: relative;
-	top: -20px;
+	position: absolute;
+	top: 70px;
 	width: 965px;
 	margin: 0px auto -1px auto; 
 	background-image: url('../images/center-background.png');
