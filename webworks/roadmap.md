@@ -7,7 +7,7 @@ layout: default
 
 Below you will find the *_tentative_* roadmap for BlackBerry&reg; WebWorks.  Scope and timelines are subject to change.
 
-You can also join the roadmap conversations on the BlackBerry WebWorks Contributions forum found here: (http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/bd-p/ww_con)
+You can also join the roadmap conversations on the [BlackBerry WebWorks Contributions forum](http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/bd-p/ww_con)
 
 
 ### BlackBerry Services APIs
