@@ -7,13 +7,12 @@ layout: default
 
 **Roadmap and Progress:**
 
-* [Latest News](https://github.com/blackberry/WebWorks/wiki/Latest-News-for-BlackBerry-WebWorks-OSS)
 * [Roadmap](roadmap.html)
 * [Enhancement Candidates](https://github.com/blackberry/WebWorks/wiki/Enhancement-Candidates)
 
 **Contributing:**
 
-* [BlackBerry WebWorks Contributors](https://github.com/blackberry/WebWorks/wiki/BlackBerry-WebWorks-Contributors)
+* [BlackBerry WebWorks Contributors](contributors.md)
 * [User Forums](http://supportforums.blackberry.com/t5/Web-Development/bd-p/browser_dev)
 * [OSS Project Discussion Forums](http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/bd-p/ww_con)
 
