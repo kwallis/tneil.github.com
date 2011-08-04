@@ -1,5 +1,5 @@
 ---
-title: Home
+title: BlackBerry WebWorks
 layout: default
 ---
 
