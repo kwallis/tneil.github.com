@@ -16,6 +16,7 @@ body, p, td, table, tr
 
 h1 
 {
+	font-size: 14pt;
 	border-bottom: 1px solid #DFDFDF;
 }
 
@@ -66,7 +67,7 @@ a:visited
 	background-repeat: no-repeat;
 	left: 50%;
     margin-left: -482px;
-	padding-top: 10px;
+	padding-top: 20px;
 }
 
 .content
