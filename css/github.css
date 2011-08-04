@@ -16,12 +16,15 @@ body, p, td, table, tr
 
 h1 
 {
+	font-family: Verdana;
 	font-size: 14pt;
 	border-bottom: 1px solid #DFDFDF;
 }
 
 h2 
 {
+	font-size: 12pt;
+	font-family: Verdana;
 	padding-top: 5px;
 	border-top: 4px solid #DFDFDF;
 }
