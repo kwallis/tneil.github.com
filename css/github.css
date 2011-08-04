@@ -19,6 +19,7 @@ body, html
 	position: absolute;
 	top: 15px;
 	height: 50px;
+	width: 227px;
 	background-image: url('../images/logo.png');
 	background-repeat: no-repeat;
 	left: 50%;
