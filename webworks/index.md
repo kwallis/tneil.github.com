@@ -12,7 +12,7 @@ layout: default
 
 **Contributing:**
 
-* [BlackBerry WebWorks Contributors](contributors.md)
+* [BlackBerry WebWorks Contributors](contributors.html)
 * [User Forums](http://supportforums.blackberry.com/t5/Web-Development/bd-p/browser_dev)
 * [OSS Project Discussion Forums](http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/bd-p/ww_con)
 
