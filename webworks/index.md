@@ -14,7 +14,6 @@ layout: default
 **Contributing:**
 
 * [BlackBerry WebWorks Contributors](https://github.com/blackberry/WebWorks/wiki/BlackBerry-WebWorks-Contributors)
-* [RIM Approved Signatories](https://github.com/blackberry/WebWorks/wiki/Approved-Signatories)
 * [User Forums](http://supportforums.blackberry.com/t5/Web-Development/bd-p/browser_dev)
 * [OSS Project Discussion Forums](http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/bd-p/ww_con)
 
