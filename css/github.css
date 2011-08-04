@@ -16,11 +16,12 @@ body, p, td, table, tr
 
 h1 
 {
-	border-bottom: 2px solid #DFDFDF;
+	border-bottom: 1px solid #DFDFDF;
 }
 
 h2 
 {
+	padding-top: 5px;
 	border-top: 4px solid #DFDFDF;
 }
 
