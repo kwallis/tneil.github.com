@@ -37,11 +37,6 @@ a:visited
 	color: #0b78b2;
 }
 
-a .logo
-{
-	text-decoration: none;
-}
-
 .header 
 {
 	height: 91px;
@@ -59,6 +54,7 @@ a .logo
 	background-repeat: no-repeat;
 	left: 50%;
     margin-left: -482px;
+	cursor: hand;
 }
 
 .center
