@@ -1,3 +1,8 @@
+---
+title: Home
+layout: default
+---
+
 # Welcome to BlackBerry&reg; WebWorks
 
 **Roadmap and Progress:**
