@@ -34,7 +34,7 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
  
 ## Community APIs under active development
 
- <table border="1" style="border: 1px solid #DFDFDF;">
+ <table>
 	<tr>
 		<td style="font-weight: bold;">Functionality</td>
 		<td style="font-weight: bold;">Description</td>
@@ -100,23 +100,76 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
  
 ## Not currently under active development
 
- Functionality | Description 
-:------------|:------------:
- Email Attachments | Attach files to messages 
- App World Licensing | Access to the App World dynamic licensing capabilities 
- Toolbars | Ability to insert fixed toolbars at top and bottom of screen with scrollable content 
- Sound Profiles | Change current sound Profiles (silent, vibrate etc)
- Inbox Listener | Inbox listen for new mail 
- Sub Menu Items | Add sub-menu items to an existing menu item 
- Unregister Hardware Keys | Unregister hardware key events from blackberry.system API 
- Graphs | Plotting and Graphing controls 
- MMS Message | Send MMS message (similar SMS API but allow to attach image or better image + audio) 
- HTML Email | Invoke Email Message App with HTML message body 
- Native Drop-down | Popup Menu that emulates the Native dropdown list buttons that can scroll  
- Pop-up Menu | BlackBerry 6 popup menu  
- Icons on Menus | Icons for BlackBerry 6 style menus  
- Menu in Native App | Add menu option outside the widget app and integrated with a native BlackBerry app for a better integration and quickly launch 
- PIN Message | Send pin message like we can do with emails or SMS 
- PIN Message Listener | Trap incoming PIN messages 
- Universal Search | Possibility to integrate with universal search BlackBerry 6 
- Multiple Loading Screens | Specify different loading screen images for different form factors and landscape/portrait 
+<table>
+	<tr>
+		<td style="font-weight: bold;">Functionality</td>
+		<td style="font-weight: bold;">Description</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Email Attachments</td>
+		<td style="vertical-align:top;">Attach files to messages</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">App World Licensing</td>
+		<td style="vertical-align:top;">Access to the App World dynamic licensing capabilities</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Toolbars</td>
+		<td style="vertical-align:top;">Ability to insert fixed toolbars at top and bottom of screen with scrollable content </td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Sound Profiles</td>
+		<td style="vertical-align:top;">Change current sound Profiles (silent, vibrate etc) </td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Inbox Listener</td>
+		<td style="vertical-align:top;">Inbox listen for new mail </td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Sub MenuItems</td>
+		<td style="vertical-align:top;">Add sub-menu items to an existing menu item </td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Unregister Hardware Keys</td>
+		<td style="vertical-align:top;">Unregister hardware key events from blackberry.system API  </td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Graphs</td>
+		<td style="vertical-align:top;">Plotting and Graphing controls  </td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">MMS Message</td>
+		<td style="vertical-align:top;">Send MMS message (similar SMS API but allow to attach image or better image + audio) </td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">HTML Email</td>
+		<td style="vertical-align:top;">Invoke Email Message App with HTML message body</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Native Drop-down</td>
+		<td style="vertical-align:top;">Popup Menu that emulates the Native dropdown list buttons that can scroll  </td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Pop-up Menu</td>
+		<td style="vertical-align:top;">BlackBerry 6 popup menu </td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Icons on Menus</td>
+		<td style="vertical-align:top;">Icons for BlackBerry 6 style menus </td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Menu in Native App</td>
+		<td style="vertical-align:top;">Add menu option outside the widget app and integrated with a native BlackBerry app for a better integration and quickly launch  </td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Universal Search</td>
+		<td style="vertical-align:top;">Possibility to integrate with universal search BlackBerry 6 </td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks/issues/14">Multiple Loading Screens</a></td>
+		<td style="vertical-align:top;">Specify different loading screen images for different form factors and landscape/portrait</td>
+	</tr>
+	
+</table>
+
+ 
