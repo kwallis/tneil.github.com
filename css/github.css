@@ -128,6 +128,8 @@ a:visited
 .tableHeader 
 {
 	font-weight: bold;
+	white-space:nowrap;
+	background-color: #FAFAFA;
 }
 
 .tableRow
