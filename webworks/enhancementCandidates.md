@@ -16,8 +16,8 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
 
 ## Community APIs under active development
 
-Functionality | Description | Discussion | Latest Source 
-:------------|:------------|:------------:|:-----------:
+Functionality | Description |  Latest Source 
+:------------|:------------|:-----------:
  Message List | Ability to add items to the message list like other integrated apps like BBM do | N/A  
  Locale Info | Ability to query locale information such as language and timezone settings  | N/A  
  File Upload/Download for Tablet | Background running download/upload service to manage file transfers | N/A  
@@ -33,7 +33,7 @@ Functionality | Description | Discussion | Latest Source
  ## Not currently under active development
 
  Functionality | Description 
-:------------|:------------|:------------:
+:------------|:------------:
  Email Attachments | Attach files to messages 
  App World Licensing | Access to the App World dynamic licensing capabilities 
  Toolbars | Ability to insert fixed toolbars at top and bottom of screen with scrollable content 
