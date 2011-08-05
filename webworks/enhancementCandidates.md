@@ -10,9 +10,9 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
 
  <table>
 	<tr>
-		<td class="tableHeader"><b>Functionality</b></td>
-		<td class="tableHeader"><b>Description</b></td>
-		<td class="tableHeader"><b>Latest Source</b></td>
+		<td class="tableHeader">Functionality</td>
+		<td class="tableHeader">Description</td>
+		<td class="tableHeader">Latest Source</td>
 	</tr>
 	<tr>
 		<td class="tableRow">Advertising API</td>
