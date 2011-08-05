@@ -26,8 +26,8 @@ Functionality | Description |  Latest Source
  Spinner Control for Smartphone | A control that will provide a pop up spinning wheel to pick choices from  | [View](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/SpinnerControl)
  Scroll Events | Event extensions to react to start and stop scrolling of the application contents | [View](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Screen) 
  Show Hide Keyboard for Smartphone | Show and hide the virtual keyboard | [View](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Screen) 
- Prevent Sleep for Smartphone | Prevent device going to sleep (some app like chess clock need the screen always on) 
- Prevent Sleep for Tablet | Prevent device going to sleep (some app like chess clock need the screen always on) 
+ Prevent Sleep for Smartphone | Prevent device going to sleep (some app like chess clock need the screen always on) | N/A
+ Prevent Sleep for Tablet | Prevent device going to sleep (some app like chess clock need the screen always on) | N/A
  
  
  ## Not currently under active development
