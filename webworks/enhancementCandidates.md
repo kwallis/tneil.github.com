@@ -6,26 +6,20 @@ layout: default
 
 Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks JavaScript APIs for BlackBerry Smartphones and Tablet OS.  These comprise basically a "wish list" of features requested by the community.
 
-**Smartphone - Under active development**
+## Under active development without a specific target release
 
  Functionality | Description | Discussion | Latest Source | Author 
 :------------|:------------|:------------:|:-----------:|:------------:
- Take a Picture/Video | An API that allows for a quick taking of a picture/video and returning the file | N/A | N/A  | N/A 
- Banner Indicators | Ability to add small image and count to the Home Screen banner indicator notification area  | N/A | N/A  | N/A 
- Enhanced BIS Push | BIS push registration integrated with blackberry.push API | N/A | N/A  | N/A 
- Enhanced BES Push | Added capabilities for push for auto wakeup and other 5.0 system push capabilities | N/A | N/A  | N/A
- Payment API | Ability for in App Payments | N/A | N/A  | N/A
  Advertising API | Insert Advertisements into your app using the Advertising Service | N/A | N/A  | N/A
  BBM API | Interact with the BBM Social Platform from within your app | N/A | N/A  | N/A
- Microphone | An API that allows for a recording sound through the microphone | N/A | N/A  | N/A 
+ Accelerometer  | Handle device position change events from the accelerometer for BB6 Torch | N/A | N/A  | N/A  
 
-**The below list is not in priority order**
+## Not currently under active development
 
  Functionality | Description | Discussion | Latest Source | Author 
 :------------|:------------|:------------:|:-----------:|:------------:
  Message List | Ability to add items to the message list like other integrated apps like BBM do | N/A | N/A  | N/A  
-Locale Info | Ability to query locale information such as language and timezone settings | N/A | N/A  | N/A 
-Accelerometer  | Handle device position change events from the accelerometer | N/A | N/A  | N/A  
+ Locale Info | Ability to query locale information such as language and timezone settings | N/A | N/A  | N/A 
  File Upload/Download  | Background running download/upload service to manage file transfers | N/A | N/A  | N/A 
  Email Attachments | Attach files to messages | N/A | N/A  | N/A 
  App World Licensing | Access to the App World dynamic licensing capabilities | [See Thread](http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/API-Licence-key/td-p/826067) | N/A  | [ddluk](https://github.com/ddluk) 
