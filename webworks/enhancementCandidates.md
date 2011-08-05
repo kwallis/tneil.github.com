@@ -30,7 +30,7 @@ Functionality | Description |  Latest Source
  Prevent Sleep for Tablet | Prevent device going to sleep (some app like chess clock need the screen always on) | N/A
  
  
- ## Not currently under active development
+## Not currently under active development
 
  Functionality | Description 
 :------------|:------------:
@@ -41,7 +41,7 @@ Functionality | Description |  Latest Source
  Inbox Listener | Inbox listen for new mail 
  Sub Menu Items | Add sub-menu items to an existing menu item 
  Unregister Hardware Keys | Unregister hardware key events from blackberry.system API 
- Graphs | Plotting and Graphing controls | N/A | N/A  | N/A 
+ Graphs | Plotting and Graphing controls 
  MMS Message | Send MMS message (similar SMS API but allow to attach image or better image + audio) 
  HTML Email | Invoke Email Message App with HTML message body 
  Native Drop-down | Popup Menu that emulates the Native dropdown list buttons that can scroll  
