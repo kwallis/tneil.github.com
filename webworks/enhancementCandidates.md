@@ -8,7 +8,7 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
 
 ## Under active development without a specific target release
 
- <table>
+ <table style="border:1px solid #DFDFDF">
 	<tr>
 		<td style="font-weight: bold;">Functionality</td>
 		<td style="font-weight: bold;">Description</td>
