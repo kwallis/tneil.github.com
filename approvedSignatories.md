@@ -20,19 +20,19 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <table>
   <tr>
     <td>
-      <a href="http://pyxismobile.com/" target="_blank"><img src="http://tneil.github.com/images/logo_pyxis.jpg"/></a>
+      <a href="http://pyxismobile.com/" target="_blank"><img src="../images/logo_pyxis.jpg"/></a>
     </td>
     <td>
-      <a href="http://www.nitobi.com/" target="_blank"><img src="http://tneil.github.com/images/logo_nitobi.png"/></a>
+      <a href="http://www.nitobi.com/" target="_blank"><img src="../images/logo_nitobi.png"/></a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="top">
       <ul>
         <li><a href="https://github.com/Muerl">Matthew Haag</a></li>
       </ul>
     </td>
-    <td>
+    <td align="top">
       <ul>
         <li><a href="https://github.com/davejohnson">Dave Johnson</a></li>
         <li><a href="https://github.com/mwbrooks">Michael Brooks</a></li>
