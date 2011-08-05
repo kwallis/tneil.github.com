@@ -8,7 +8,7 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
 
 ## Under active development without a specific target release
 
- <table style="border:1px solid #DFDFDF">
+ <table>
 	<tr>
 		<td style="font-weight: bold;">Functionality</td>
 		<td style="font-weight: bold;">Description</td>
@@ -34,19 +34,69 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
  
 ## Community APIs under active development
 
-Functionality | Description |  Latest Source 
-:------------|:------------|:-----------:
- Message List | Ability to add items to the message list like other integrated apps like BBM do | N/A  
- Locale Info | Ability to query locale information such as language and timezone settings  | N/A  
- File Upload/Download for Tablet | Background running download/upload service to manage file transfers | N/A  
- Bar Code Scanning for Tablet | Read a bar codes including QR codes  | N/A  
- Bar Code Scanning for Smartphone | Read a bar codes including QR codes  | N/A  
- Spinner Control for Smartphone | A control that will provide a pop up spinning wheel to pick choices from  | [View](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/SpinnerControl)
- Scroll Events | Event extensions to react to start and stop scrolling of the application contents | [View](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Screen) 
- Show Hide Keyboard for Smartphone | Show and hide the virtual keyboard | [View](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Screen) 
- Prevent Sleep for Smartphone | Prevent device going to sleep (some app like chess clock need the screen always on) | N/A
- Prevent Sleep for Tablet | Prevent device going to sleep (some app like chess clock need the screen always on) | N/A
- 
+ <table>
+	<tr>
+		<td style="font-weight: bold;">Functionality</td>
+		<td style="font-weight: bold;">Description</td>
+		<td style="font-weight: bold;text-align:center">Source</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Message List</td>
+		<td style="vertical-align:top;">Ability to add items to the message list like other integrated apps like BBM</td>
+		<td style="vertical-align:top;text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/MessageList">View</a></td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Locale Info for Smartphone </td>
+		<td style="vertical-align:top;">Ability to query locale information such as language and timezone settings </td>
+		<td style="vertical-align:top;text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Locale">View</a></td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Locale Info for Tablet </td>
+		<td style="vertical-align:top;">Ability to query locale information such as language and timezone settings </td>
+		<td style="vertical-align:top;text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet/Locale">View</a></td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">File Upload/Download for Tablet</td>
+		<td style="vertical-align:top;">Background running download/upload service to manage file transfers</td>
+		<td style="vertical-align:top;text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet/UploadDownload">View</a></td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Bar Code Scanning for Tablet</td>
+		<td style="vertical-align:top;"> Read a bar codes including QR codes</td>
+		<td style="vertical-align:top;text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet/Barcode">View</a></td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Bar Code Scanning for Smartphone</td>
+		<td style="vertical-align:top;"> Read a bar codes including QR codes</td>
+		<td style="vertical-align:top;text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Barcode">View</a></td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Spinner Control for Smartphone</td>
+		<td style="vertical-align:top;">A control that will provide a pop up spinning wheel to pick choices</td>
+		<td style="vertical-align:top;text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/SpinnerControl">View</a></td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Scroll Events for Smartphone</td>
+		<td style="vertical-align:top;">Event extensions to react to start and stop scrolling of the application contents</td>
+		<td style="vertical-align:top;text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Screen">View</a></td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Show Hide Keyboard for Smartphone</td>
+		<td style="vertical-align:top;">Show and hide the virtual keyboard</td>
+		<td style="vertical-align:top;text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Screen">View</a></td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Prevent Sleep for Smartphone</td>
+		<td style="vertical-align:top;">Prevent device going to sleep (some app like chess clock need the screen always on)</td>
+		<td style="vertical-align:top;text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Sleep">View</a></td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;white-space:nowrap;">Prevent Sleep for Tablet</td>
+		<td style="vertical-align:top;">Prevent device going to sleep (some app like chess clock need the screen always on)</td>
+		<td style="vertical-align:top;text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet/sleep">View</a></td>
+	</tr>
+ </table>
+
  
 ## Not currently under active development
 
