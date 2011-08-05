@@ -1,27 +1,30 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
+		<link id="stylesheet" href="/css/github.css" rel="stylesheet" type="text/css"></link>
 		<script type="text/javascript">
 		
 			var rootPath = 'http://' + document.location.host;
 		
 			function updateURLs() {
 				// Insert Stylesheet
-				var link = document.createElement('link');
+				/*var link = document.createElement('link');
 				link.setAttribute('href', rootPath + '/css/github.css');
 				link.setAttribute('rel', 'stylesheet');
 				link.setAttribute('type', 'text/css');
-				document.head.appendChild(link);
+				document.head.appendChild(link);*/
+				
+				updateLink(document.getElementById('stylesheet'));
 				
 				// Update anchor tags via brute force for old IE usage
-				updateAnchor(document.getElementById('howToContribute'));
-				updateAnchor(document.getElementById('approvedSignatories'));
-				updateAnchor(document.getElementById('webworks'));
+				updateLink(document.getElementById('howToContribute'));
+				updateLink(document.getElementById('approvedSignatories'));
+				updateLink(document.getElementById('webworks'));
 			}
 			
-			function updateAnchor(anchor) {
-				var href = rootPath + anchor.getAttribute('href');
-				anchor.setAttribute('href', href);
+			function updateLink(link) {
+				var href = rootPath + link.getAttribute('href');
+				link.setAttribute('href', href);
 			}
 			
 			function logoClick() {
