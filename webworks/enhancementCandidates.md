@@ -10,14 +10,14 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
 
  <table>
 	<tr>
-		<td style="font-weight: bold;white-space:nowrap;">Functionality</td>
-		<td style="font-weight: bold;white-space:nowrap;">Description</td>
-		<td style="font-weight: bold;white-space:nowrap;">Latest Source</td>
+		<td style="font-weight: bold;">Functionality</td>
+		<td style="font-weight: bold;">Description</td>
+		<td style="font-weight: bold;">Latest Source</td>
 	</tr>
 	<tr>
 		<td style="vertical-align:top;">Advertising API</td>
 		<td style="vertical-align:top;">Insert Advertisements into your app using the Advertising Service</td>
-		<td style="vertical-align:top;">N/A</td>
+		<td style="vertical-align:top;text-align:center">N/A</td>
 	</tr>
 	<tr>
 		<td style="vertical-align:top;">BBM API </td>
