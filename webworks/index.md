@@ -47,7 +47,7 @@ BlackBerry WebWorks is a unique platform in the mobile market and is designed to
 
     * It is not a lowest common denominator platform. It’s not an isolated environment.
     * You can create full BlackBerry Super Apps with access to the entire platform through Services and JavaScript APIs.
-    * It’s also completely extensible; If support for that [[one API that you need|http://www.blackberry.com/developers/docs/webworks/api/]] doesn’t already exist, you can add it yourself.
+    * It’s also completely extensible; If support for that [one API that you need](http://www.blackberry.com/developers/docs/webworks/api/) doesn’t already exist, you can add it yourself.
     * Quickly get on the road to an attractive, secured, integrated, always-on and event-driven application that can exploit what makes the BlackBerry platform so powerful.
 
 3. **Open**
