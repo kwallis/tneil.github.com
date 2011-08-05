@@ -24,7 +24,8 @@
 			
 			function updateLink(link) {
 				var href = rootPath + link.getAttribute('href');
-				link.setAttribute('href', href);
+				//link.setAttribute('href', href);
+				link.href = href;
 			}
 			
 			function logoClick() {
