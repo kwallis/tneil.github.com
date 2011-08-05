@@ -34,7 +34,7 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
  
 ## Community APIs under active development
 
- <table>
+ <table border="1">
 	<tr>
 		<td style="font-weight: bold;">Functionality</td>
 		<td style="font-weight: bold;">Description</td>
