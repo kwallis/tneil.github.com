@@ -8,12 +8,30 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
 
 ## Under active development without a specific target release
 
- Functionality | Description | Latest Source
-:------------|:------------|:-----------:
- Advertising API | Insert Advertisements into your app using the Advertising Service  | N/A  
- BBM API | Interact with the BBM Social Platform from within your app  | N/A  
- Accelerometer  | Handle device position change events from the accelerometer for BB6 Torch  | N/A   
-
+ <table>
+	<tr>
+		<td class="tableHeader"><b>Functionality</b></td>
+		<td class="tableHeader"><b>Description</b></td>
+		<td class="tableHeader"><b>Latest Source</b></td>
+	<tr>
+	<tr>
+		<td class="tableRow">Advertising API</td>
+		<td class="tableRow">Insert Advertisements into your app using the Advertising Service</td>
+		<td class="tableRow">N/A</td>
+	<tr>
+	<tr>
+		<td class="tableRow">BBM API </td>
+		<td class="tableRow">Interact with the BBM Social Platform from within your app </td>
+		<td class="tableRow"><a href="http://us.blackberry.com/developers/blackberrymessenger/">View</a></td>
+	<tr>
+	<tr>
+		<td class="tableRow">Accelerometer</td>
+		<td class="tableRow">Handle device position change events from the accelerometer for BB6 Torch</td>
+		<td class="tableRow">N/A</td>
+	<tr>
+ </table>
+ 
+ 
 ## Community APIs under active development
 
 Functionality | Description |  Latest Source 
