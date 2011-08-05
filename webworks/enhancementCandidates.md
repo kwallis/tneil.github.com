@@ -10,9 +10,9 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
 
  <table>
 	<tr>
-		<td style="font-weight: bold;white-space:nowrap;background-color: #DFDFDF;">Functionality</td>
-		<td style="font-weight: bold;white-space:nowrap;background-color: #DFDFDF;">Description</td>
-		<td style="font-weight: bold;white-space:nowrap;background-color: #DFDFDF;">Latest Source</td>
+		<td style="font-weight: bold;white-space:nowrap;">Functionality</td>
+		<td style="font-weight: bold;white-space:nowrap;">Description</td>
+		<td style="font-weight: bold;white-space:nowrap;">Latest Source</td>
 	</tr>
 	<tr>
 		<td style="vertical-align:top;">Advertising API</td>
