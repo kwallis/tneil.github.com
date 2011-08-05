@@ -1,15 +1,22 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
-		<link href="http://tneil.github.com/css/github.css" rel="stylesheet" type="text/css" />
+		<!--<link href="http://tneil.github.com/css/github.css" rel="stylesheet" type="text/css" />-->
 		<script type="text/javascript">
 		
-			alert('pathname:' + document.location.pathname);
-			alert('hotname:' + document.location.host);
-		
+			function updateURLs() {
+				var rootPath = 'http://' + document.location.host;
+				
+				var link = document.createElement('link');
+				link.setAttribute('href', rootPath + '/css/github.css');
+				link.setAttribute('rel', 'stylesheet');
+				link.setAttribute('type', 'text/css');
+				
+				document.head.appendChild(link);
+			}
 		</script>
 	</head>
-	<body>
+	<body onload="updateURLs()">
 		<div class="header">
 			<div class="logo" onclick="document.location='http://tneil.github.com/'">&nbsp;</div>
 			<div class="github-logo" onclick="document.location='http://.github.com/blackberry'">&nbsp;</div>
