@@ -15,6 +15,7 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 * [Pyxis Mobile](http://pyxismobile.com/)
   * [Matthew Haag](https://github.com/Muerl)
   
+  
 * [Peter Newhook](https://github.com/pnewhook)
 
 * [Nitobi](http://www.nitobi.com/)
