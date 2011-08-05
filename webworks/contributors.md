@@ -1,5 +1,5 @@
 ---
-title: How To Contribute
+title: BlackBerry WebWorks Contributors
 layout: default
 ---
 
