@@ -59,6 +59,7 @@ a:visited
 	left: 50%;
     margin-left: -482px;
 	cursor: hand;
+	cursor:pointer;
 }
 
 .github-logo
