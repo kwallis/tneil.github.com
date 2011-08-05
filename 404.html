@@ -1,44 +1,16 @@
 <html>
 	<head>
-		<title>Oh Snap! Page Not Found</title>
-		<script type="text/javascript">
-		
-			var rootPath = 'http://' + document.location.host;
-		
-			function updateURLs() {
-				// Insert Stylesheet
-				var link = document.createElement('link');
-				link.setAttribute('href', rootPath + '/css/github.css');
-				link.setAttribute('rel', 'stylesheet');
-				link.setAttribute('type', 'text/css');
-				document.head.appendChild(link);
-				
-				// Update anchor tags via brute force for old IE usage
-				updateAnchor(document.getElementById('howToContribute'));
-				updateAnchor(document.getElementById('approvedSignatories'));
-				updateAnchor(document.getElementById('webworks'));
-			}
-			
-			function updateAnchor(anchor) {
-				var href = rootPath + anchor.getAttribute('href');
-				anchor.setAttribute('href', href);
-			}
-			
-			function logoClick() {
-				document.location = rootPath;
-			}		
-			
-		</script>
+		<title>Oh Snap! Page Not Found</title>	
 	</head>
-	<body onload="updateURLs()">
+	<body>
 		<div class="header">
-			<div class="logo" onclick="logoClick">&nbsp;</div>
+			<div class="logo" onclick="document.location = '{{ site.base-url }}'">&nbsp;</div>
 			<div class="github-logo" onclick="document.location='http://.github.com/blackberry'">&nbsp;</div>
 		</div>
 		<div class="center">
 			<div style="margin-left:30px;margin-right:30px;">
 				<h1>It looks like you tried to access a page that doesn't exist</h1>
-				<img style="display: block;margin-left: auto;margin-right: auto"src="http://tneil.github.com/images/dontPanic.png" />
+				<img style="display: block;margin-left: auto;margin-right: auto"src="{{ site.base-url }}/images/dontPanic.png" />
 			</div>
 			<div class="footer">
 				<div style="border-style: none none dashed none; border-width: 1px; border-color: Silver;margin-top: 40px;"></div>
