@@ -124,15 +124,3 @@ a:visited
 	border-bottom: 1px solid #DFDFDF;
 	font-weight: bold;
 }
-
-td .tableHeader 
-{
-	font-weight: bold;
-	white-space:nowrap;
-	background-color: #FAFAFA;
-}
-
-.tableRow
-{
-	vertical-align: top;
-}
