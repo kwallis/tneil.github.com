@@ -10,24 +10,24 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
 
  <table>
 	<tr>
-		<td class="tableHeader">Functionality</td>
-		<td class="tableHeader">Description</td>
-		<td class="tableHeader">Latest Source</td>
+		<td style="font-weight: bold;white-space:nowrap;background-color: #FAFAFA;">Functionality</td>
+		<td>Description</td>
+		<td>Latest Source</td>
 	</tr>
 	<tr>
-		<td class="tableRow">Advertising API</td>
-		<td class="tableRow">Insert Advertisements into your app using the Advertising Service</td>
-		<td class="tableRow">N/A</td>
+		<td>Advertising API</td>
+		<td>Insert Advertisements into your app using the Advertising Service</td>
+		<td>N/A</td>
 	</tr>
 	<tr>
-		<td class="tableRow">BBM API </td>
-		<td class="tableRow">Interact with the BBM Social Platform from within your app </td>
-		<td class="tableRow"><a href="http://us.blackberry.com/developers/blackberrymessenger/">View</a></td>
+		<td>BBM API </td>
+		<td>Interact with the BBM Social Platform from within your app </td>
+		<td><a href="http://us.blackberry.com/developers/blackberrymessenger/">View</a></td>
 	</tr>
 	<tr>
-		<td class="tableRow">Accelerometer</td>
-		<td class="tableRow">Handle device position change events from the accelerometer for BB6 Torch</td>
-		<td class="tableRow">N/A</td>
+		<td>Accelerometer</td>
+		<td>Handle device position change events from the accelerometer for BB6 Torch</td>
+		<td>N/A</td>
 	</tr>
  </table>
  
