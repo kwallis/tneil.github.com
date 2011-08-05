@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
-		<link id="stylesheet" href="/css/github.css" rel="stylesheet" type="text/css"></link>
+		<link id="stylesheet" href="" rel="stylesheet" type="text/css"></link>
 		<script type="text/javascript">
 		
 			var rootPath = 'http://' + document.location.host;
@@ -14,16 +14,16 @@
 				link.setAttribute('type', 'text/css');
 				document.head.appendChild(link);*/
 				
-				updateLink(document.getElementById('stylesheet'));
+				updateLink(document.getElementById('stylesheet'), '/css/github.css');
 				
 				// Update anchor tags via brute force for old IE usage
-				updateLink(document.getElementById('howToContribute'));
-				updateLink(document.getElementById('approvedSignatories'));
-				updateLink(document.getElementById('webworks'));
+				updateLink(document.getElementById('howToContribute'), '/howToContribute.html');
+				updateLink(document.getElementById('approvedSignatories'), '/approvedSignatories.html');
+				updateLink(document.getElementById('webworks'), '/webworks/index.html');
 			}
 			
-			function updateLink(link) {
-				var href = rootPath + link.getAttribute('href');
+			function updateLink(link, path) {
+				var href = rootPath + path;
 				//link.setAttribute('href', href);
 				link.href = href;
 			}
@@ -53,11 +53,11 @@
 					<td valign="top" class="menu-column">
 						<div class="menu">
 							<div class="menu-header">Contributing</div>
-							<div class="menu-item"><a id="howToContribute" href="/howToContribute.html">How To Contribute</a></div>
-							<div class="menu-item"><a id="approvedSignatories" href="/approvedSignatories.html">Approved Signatories</a></div>
+							<div class="menu-item"><a id="howToContribute" href="">How To Contribute</a></div>
+							<div class="menu-item"><a id="approvedSignatories" href="">Approved Signatories</a></div>
 							<!-- Projects -->
 							<div class="menu-header">Projects</div>
-							<div class="menu-item"><a id="webworks" href="/webworks/index.html">BlackBerry WebWorks</a></div>
+							<div class="menu-item"><a id="webworks" href="">BlackBerry WebWorks</a></div>
 							<!-- Coming Soon -->
 							<div class="menu-header">Coming Soon</div>
 							<div class="menu-item">Ripple</div>
