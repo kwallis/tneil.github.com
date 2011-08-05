@@ -20,9 +20,8 @@
 			}
 			
 			function updateAnchor(anchor) {
-				alert(anchor.getAttribute('href'));
-				var href = rootPath + anchor.href;
-				anchor.href = href;
+				var href = rootPath + anchor.getAttribute('href');
+				anchor.setAttribute('href', href);
 			}
 			
 			function logoClick() {
