@@ -10,15 +10,34 @@ This page lists the persons and companies who have signed and submitted [Contrib
 ### Research In Motion Contributor Agreement Signatories
 The Research In Motion Contributor Agreement covers contributions to all RIM open source projects, not just BlackBerry WebWorks. All Research In Motion Contributor Agreement signatories are listed below:
 
-* [Lukasz Dzierzak](https://github.com/ddluk)
+## Individual Signatories
 
-* [Pyxis Mobile](http://pyxismobile.com/)
-  * [Matthew Haag](https://github.com/Muerl)
-  
-  
+* [Lukasz Dzierzak](https://github.com/ddluk)
 * [Peter Newhook](https://github.com/pnewhook)
 
-* [Nitobi](http://www.nitobi.com/)
-  * [Dave Johnson](https://github.com/davejohnson)
-  * [Michael Brooks](https://github.com/mwbrooks)
-  * [Filip Maj](https://github.com/filmaj)
+## Corporate Signatories
+
+<table>
+  <tr>
+    <td>
+      <a href="http://pyxismobile.com/" target="_blank"><img src="http://tneil.github.com/images/logo_pyxis.jpg"/></a>
+    </td>
+    <td>
+      <a href="http://www.nitobi.com/" target="_blank"><img src="http://tneil.github.com/images/logo_nitobi.png"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li><a href="https://github.com/Muerl">Matthew Haag</a></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://github.com/davejohnson">Dave Johnson</a></li>
+        <li><a href="https://github.com/mwbrooks">Michael Brooks</a></li>
+        <li><a href="https://github.com/filmaj">Filip Maj</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
