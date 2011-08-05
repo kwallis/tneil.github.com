@@ -12,7 +12,7 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
 	<tr>
 		<td style="font-weight: bold;">Functionality</td>
 		<td style="font-weight: bold;">Description</td>
-		<td style="font-weight: bold;text-align:center"">Source</td>
+		<td style="font-weight: bold;text-align:center">Source</td>
 	</tr>
 	<tr>
 		<td style="vertical-align:top;white-space:nowrap;">Advertising API</td>
@@ -22,12 +22,12 @@ Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks Ja
 	<tr>
 		<td style="vertical-align:top;white-space:nowrap;">BBM API </td>
 		<td style="vertical-align:top;">Interact with the BBM Social Platform from within your app </td>
-		<td style="vertical-align:top;"><a href="http://us.blackberry.com/developers/blackberrymessenger/">View</a></td>
+		<td style="vertical-align:top;text-align:center"><a href="http://us.blackberry.com/developers/blackberrymessenger/">View</a></td>
 	</tr>
 	<tr>
 		<td style="vertical-align:top;white-space:nowrap;">Accelerometer</td>
 		<td style="vertical-align:top;">Handle device position change events from the accelerometer for BB6 Torch</td>
-		<td style="vertical-align:top;">N/A</td>
+		<td style="vertical-align:top;text-align:center">N/A</td>
 	</tr>
  </table>
  
