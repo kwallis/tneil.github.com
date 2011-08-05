@@ -3,6 +3,7 @@ title: Enhancement Candidates
 layout: default
 ---
 
+# BlackBerry WebWorks Enhancement Candidates
 
 Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks JavaScript APIs for BlackBerry Smartphones and Tablet OS.  These comprise basically a "wish list" of features requested by the community.
 
