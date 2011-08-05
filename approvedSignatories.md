@@ -27,12 +27,12 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
     </td>
   </tr>
   <tr>
-    <td align="top">
+    <td valign="top">
       <ul>
         <li><a href="https://github.com/Muerl">Matthew Haag</a></li>
       </ul>
     </td>
-    <td align="top">
+    <td valign="top">
       <ul>
         <li><a href="https://github.com/davejohnson">Dave Johnson</a></li>
         <li><a href="https://github.com/mwbrooks">Michael Brooks</a></li>
