@@ -8,7 +8,7 @@ layout: default
 **Roadmap and Progress:**
 
 * [Roadmap](roadmap.html)
-* [Enhancement Candidates](https://github.com/blackberry/WebWorks/wiki/Enhancement-Candidates)
+* [Enhancement Candidates](enhancementCandidates.html)
 
 **Contributing:**
 
