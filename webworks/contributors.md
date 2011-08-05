@@ -26,7 +26,6 @@ Peter Newhook | N/A  | [pnewhook](https://github.com/pnewhook) | [pnewhook](http
 Peter Wu | [RIM](http://www.rim.com/)  | [yiwu](https://github.com/yiwu) | N/A | [@peterwu](http://twitter.com/#!/peterwu)
 Tim Neil | [RIM](http://www.rim.com/)  | [tneil](https://github.com/tneil) | [tneil](http://supportforums.blackberry.com/t5/user/viewprofilepage/user-id/28983) | [@brcewane](http://twitter.com/#!/brcewane)
 Tom Towle | [RIM](http://www.rim.com/) | [TowleT](https://github.com/TowleT) | N/A | N/A
-Trung Lai | [RIM](http://www.rim.com/) | [tlai](https://github.com/tlai) | N/A | N/A
 
   
  
