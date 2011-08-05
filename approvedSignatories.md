@@ -20,10 +20,10 @@ The Research In Motion Contributor Agreement covers contributions to all RIM ope
 <table>
   <tr>
     <td>
-      <a href="http://pyxismobile.com/" target="_blank"><img src="../images/logo_pyxis.jpg"/></a>
+      <a href="http://pyxismobile.com/" target="_blank"><img src="../images/logo_pyxis.jpg" border="0"/></a>
     </td>
     <td>
-      <a href="http://www.nitobi.com/" target="_blank"><img src="../images/logo_nitobi.png"/></a>
+      <a href="http://www.nitobi.com/" target="_blank"><img src="../images/logo_nitobi.png" border="0"/></a>
     </td>
   </tr>
   <tr>
