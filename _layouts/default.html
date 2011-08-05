@@ -1,24 +1,37 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
-		<!--<link href="http://tneil.github.com/css/github.css" rel="stylesheet" type="text/css" />-->
 		<script type="text/javascript">
 		
+			var rootPath = 'http://' + document.location.host;
+		
 			function updateURLs() {
-				var rootPath = 'http://' + document.location.host;
-				
+				// Insert Stylesheet
 				var link = document.createElement('link');
 				link.setAttribute('href', rootPath + '/css/github.css');
 				link.setAttribute('rel', 'stylesheet');
 				link.setAttribute('type', 'text/css');
-				
 				document.head.appendChild(link);
+				
+				// Update anchor tags via brute force for old IE usage
+				updateAnchor(document.getElementById('howToContribute'));
+				updateAnchor(document.getElementById('approvedSignatories'));
+				updateAnchor(document.getElementById('webworks'));
 			}
+			
+			function updateAnchor(anchor) {
+				anchor.href = rootPath + anchor.href;
+			}
+			
+			function logoClick() {
+				document.location = rootPath;
+			}		
+			
 		</script>
 	</head>
 	<body onload="updateURLs()">
 		<div class="header">
-			<div class="logo" onclick="document.location='http://tneil.github.com/'">&nbsp;</div>
+			<div class="logo" onclick="logoClick">&nbsp;</div>
 			<div class="github-logo" onclick="document.location='http://.github.com/blackberry'">&nbsp;</div>
 		</div>
 		<div class="center">
@@ -35,11 +48,11 @@
 					<td valign="top" class="menu-column">
 						<div class="menu">
 							<div class="menu-header">Contributing</div>
-							<div class="menu-item"><a href="http://tneil.github.com/howToContribute.html">How To Contribute</a></div>
-							<div class="menu-item"><a href="http://tneil.github.com/approvedSignatories.html">Approved Signatories</a></div>
+							<div class="menu-item"><a id="howToContribute" href="/howToContribute.html">How To Contribute</a></div>
+							<div class="menu-item"><a id="approvedSignatories" href="/approvedSignatories.html">Approved Signatories</a></div>
 							<!-- Projects -->
 							<div class="menu-header">Projects</div>
-							<div class="menu-item"><a href="http://tneil.github.com/webworks/index.html">BlackBerry WebWorks</a></div>
+							<div class="menu-item"><a id="webworks" href="/webworks/index.html">BlackBerry WebWorks</a></div>
 							<div class="menu-item">Ripple</div>
 						</div>
 					</td>
