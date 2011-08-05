@@ -42,4 +42,4 @@ Scroll Events | Event extensions to react to start and stop scrolling of the app
  PIN Message | Send pin message like we can do with emails or SMS | N/A | N/A  | N/A 
  PIN Message Listener | Trap incoming PIN messages | N/A | N/A  | N/A 
  Universal Search | Possibility to integrate with universal search BlackBerry 6 | N/A | N/A  | N/A 
-Multiple Loading Screens | Specify different loading screen images for different form factors and landscape/portrait | [See Thread](http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/Functionality-Loading-screens-without-images/m-p/659345) | N/A  | N/A 
+ Multiple Loading Screens | Specify different loading screen images for different form factors and landscape/portrait | [See Thread](http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/Functionality-Loading-screens-without-images/m-p/659345) | N/A  | N/A 
