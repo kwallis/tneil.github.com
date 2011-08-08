@@ -29,9 +29,8 @@ layout: default
 * [Feature Requests for Tablet OS](https://github.com/blackberry/WebWorks-TabletOS/issues?labels=Request&sort=created&direction=desc&state=open&page=1)
 
 
-**Contributing:**
+**Forums:**
 
-* [BlackBerry WebWorks Contributors](contributors.html)
 * [User Forums](http://supportforums.blackberry.com/t5/Web-Development/bd-p/browser_dev)
 * [OSS Project Discussion Forums](http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/bd-p/ww_con)
 
@@ -48,27 +47,33 @@ layout: default
   <tr>
     <th>Repository</th>
     <th>Description</th>
+    <th>Contributors</th>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks" target="_blank">WebWorks</a></td>
     <td>Contains all of the source code for the WebWorks platform and APIs for BlackBerry Smartphones</td>
+    <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks/contributors">See List</a></td>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-TabletOS" target="_blank">WebWorks-TabletOS</a></td>
     <td>Contains all of the source code for the WebWorks platform and APIs for BlackBerry PlayBook</td>
+    <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-TabletOS/contributors">See List</a></td>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-API-Docs" target="_blank">WebWorks-API-Docs</a></td>
     <td>Source code for the WebWorks API documentation</td>
+    <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-API-Docs/contributors">See List</a></td>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-Community-APIs" target="_blank">WebWorks-Community-APIs</a></td>
     <td>Community built APIs for both the Smartphone and Tablet OS.  These are not part of the official SDK</td>
+    <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/contributors">See List</a></td>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-Samples" target="_blank">WebWorks-Samples</a></td>
     <td>Home for sample applications built with the BlackBerry WebWorks SDK</td>
   </tr>
+  <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-Samples/contributors">See List</a></td>
 </table>
 
 
