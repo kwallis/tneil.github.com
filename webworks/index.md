@@ -34,7 +34,7 @@ layout: default
 
 ## Source Repositories
 
-<table>
+<table class="outlined">
   <tr>
     <td><b>Repository</b></td>
     <td><b>Description</b></td>
