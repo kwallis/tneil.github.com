@@ -40,7 +40,6 @@ table.outlined td {
 	vertical-align: text-top;
 }
 
-
 h1 
 {
 	font-family: Verdana;
@@ -54,6 +53,7 @@ h2
 	font-family: Verdana;
 	padding-top: 5px;
 	border-top: 4px solid #DFDFDF;
+	margin-top: 20px;
 }
 
 a:link 
