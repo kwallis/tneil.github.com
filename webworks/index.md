@@ -3,7 +3,7 @@ title: BlackBerry WebWorks
 layout: default
 ---
 
-# BlackBerry&reg; WebWorks
+# BlackBerry&reg; WebWorks&trade;
 
 <table>
 	<tr>
