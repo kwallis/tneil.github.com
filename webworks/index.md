@@ -32,6 +32,36 @@ layout: default
 
 * [Feature Requests](enhancementCandidates.html)
 
+## Source Repositories
+
+<table>
+  <tr>
+    <td><b>Repository</b></td>
+    <td><b>Description</b></td>
+  </tr>
+  <tr>  
+    <td valign="top"><a href="https://github.com/blackberry/WebWorks" target="_blank">WebWorks</a></td>
+    <td>Contains all of the source code for the WebWorks platform and APIs for BlackBerry Smartphones</td>
+  </tr>
+  <tr>  
+    <td valign="top"><a href="https://github.com/blackberry/WebWorks-TabletOS" target="_blank">WebWorks-TabletOS</a></td>
+    <td>Contains all of the source code for the WebWorks platform and APIs for BlackBerry PlayBook</td>
+  </tr>
+  <tr>  
+    <td valign="top"><a href="https://github.com/blackberry/WebWorks-API-Docs" target="_blank">WebWorks-API-Docs</a></td>
+    <td>Source code for the API documentation for the WebWorks platform</td>
+  </tr>
+  <tr>  
+    <td valign="top"><a href="https://github.com/blackberry/WebWorks-Community-APIs" target="_blank">WebWorks-Community-APIs</a></td>
+    <td>Community built APIs built for both the Smartphone and Tablet OS.  These are not part of the official SDK</td>
+  </tr>
+  <tr>  
+    <td valign="top"><a href="https://github.com/blackberry/WebWorks-Samples" target="_blank">WebWorks-Samples</a></td>
+    <td>Home for sample applications built with the BlackBerry WebWorks SDK</td>
+  </tr>
+</table>
+
+
 ## Project Details
 
 BlackBerry WebWorks is a unique platform in the mobile market and is designed to take the Web as a first class citizen to create full featured applications. It is built on three main strategic principles.
@@ -41,13 +71,13 @@ BlackBerry WebWorks is a unique platform in the mobile market and is designed to
     * It truly adopts advanced web standards such as HTML5, CSS3, JavaScript, and features a powerful implementation of SVG.
     * It runs on the market-leading WebKit&reg; browser engine. _(Also available on BlackBerry handheld version 5.0)_
     * We are working with leading productivity web frameworks, including (but not limited to) jQuery&reg;, Dojo&reg;, and Sencha&reg;, to make sure that they function and perform as expected.
-    * It’s not just about standards, it’s about advanced standards and technologies that promote developer skills and productivity.
+    * It's not just about standards, it's about advanced standards and technologies that promote developer skills and productivity.
 
 2. **Powerful Integration**
 
-    * It is not a lowest common denominator platform. It’s not an isolated environment.
+    * It is not a lowest common denominator platform. It's not an isolated environment.
     * You can create full BlackBerry Super Apps with access to the entire platform through Services and JavaScript APIs.
-    * It’s also completely extensible; If support for that [one API that you need](http://www.blackberry.com/developers/docs/webworks/api/) doesn’t already exist, you can add it yourself.
+    * It's also completely extensible; If support for that [one API that you need](http://www.blackberry.com/developers/docs/webworks/api/) doesn't already exist, you can add it yourself.
     * Quickly get on the road to an attractive, secured, integrated, always-on and event-driven application that can exploit what makes the BlackBerry platform so powerful.
 
 3. **Open**
@@ -55,6 +85,4 @@ BlackBerry WebWorks is a unique platform in the mobile market and is designed to
     * RIM is putting its resources on the table to become contributing members of the top web open source communities including WebKit, jQuery, and Dojo, and other partners such as Sencha and PhoneGap&reg;. This is a beginning, and our strategy is to broadly advance the state of the art in mobile web applications.
     * We are also open sourcing this web application platform here under the Apache 2.0 license, so developers can be a driving force in its future.
     * This new BlackBerry web application platform is open in every way possible.
-
-
 
