@@ -11,26 +11,26 @@ These lists **do not** include features that are already included in a planned r
 
 ## Under active development without a specific target release
 
- <table>
+ <table class="outlined">
 	<tr>
-		<td style="font-weight: bold;">Functionality</td>
-		<td style="font-weight: bold;">Description</td>
-		<td style="font-weight: bold;text-align:center">Source</td>
+		<th>Functionality</th>
+		<th>Description</th>
+		<th style="text-align:center">Source</th>
 	</tr>
 	<tr>
-		<td style="vertical-align:top;white-space:nowrap;">Advertising API</td>
-		<td style="vertical-align:top;">Insert Advertisements into your app using the Advertising Service</td>
-		<td style="vertical-align:top;text-align:center">N/A</td>
+		<td style="white-space:nowrap;">Advertising API</td>
+		<td>Insert Advertisements into your app using the Advertising Service</td>
+		<td style="text-align:center">N/A</td>
 	</tr>
 	<tr>
-		<td style="vertical-align:top;white-space:nowrap;">BBM API </td>
-		<td style="vertical-align:top;">Interact with the BBM Social Platform from within your app </td>
-		<td style="vertical-align:top;text-align:center"><a href="http://us.blackberry.com/developers/blackberrymessenger/">View</a></td>
+		<td style="white-space:nowrap;">BBM API </td>
+		<td>Interact with the BBM Social Platform from within your app </td>
+		<td style="text-align:center"><a href="http://us.blackberry.com/developers/blackberrymessenger/">View</a></td>
 	</tr>
 	<tr>
-		<td style="vertical-align:top;white-space:nowrap;">Accelerometer</td>
-		<td style="vertical-align:top;">Handle device position change events from the accelerometer for BB6 Torch</td>
-		<td style="vertical-align:top;text-align:center">N/A</td>
+		<td style="white-space:nowrap;">Accelerometer</td>
+		<td>Handle device position change events from the accelerometer for BB6 Torch</td>
+		<td style="text-align:center">N/A</td>
 	</tr>
  </table>
  
