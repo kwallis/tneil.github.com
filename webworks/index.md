@@ -36,8 +36,8 @@ layout: default
 
 <table class="outlined">
   <tr>
-    <td><b>Repository</b></td>
-    <td><b>Description</b></td>
+    <th>Repository</th>
+    <th>Description</th>
   </tr>
   <tr>  
     <td valign="top"><a href="https://github.com/blackberry/WebWorks" target="_blank">WebWorks</a></td>
