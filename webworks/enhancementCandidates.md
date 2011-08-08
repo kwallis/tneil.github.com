@@ -5,7 +5,9 @@ layout: default
 
 # BlackBerry WebWorks Enhancement Candidates
 
-Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks JavaScript APIs for BlackBerry Smartphones and Tablet OS.  These comprise basically a "wish list" of features requested by the community.
+Below are _**tentative candidates**_ for enhancements for BlackBerry WebWorks JavaScript APIs for BlackBerry Smartphones and Tablet OS.  These comprise basically a "wish list" of features requested by the community.  
+
+These lists do not include features that are already included in a planned release bundle. For a list of features currently included in a planned release please see [the Roadmap section](roadmap.html).
 
 ## Under active development without a specific target release
 

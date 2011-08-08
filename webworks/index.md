@@ -26,7 +26,7 @@ layout: default
 **Downloads:**
 
 * [Download Smartphone WebWorks SDK Installer](http://us.blackberry.com/developers/browserdev/widgetsdk.jsp)
-* [Download Tablet OS WebWorks Installer](http://us.blackberry.com/developers/tablet/webworks.jsp)
+* [Download Tablet OS WebWorks SDK Installer](http://us.blackberry.com/developers/tablet/webworks.jsp)
 
 **Feature Requests:**
 
