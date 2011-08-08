@@ -40,23 +40,23 @@ layout: default
     <th>Description</th>
   </tr>
   <tr>  
-    <td><a href="https://github.com/blackberry/WebWorks" target="_blank">WebWorks</a></td>
+    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks" target="_blank">WebWorks</a></td>
     <td>Contains all of the source code for the WebWorks platform and APIs for BlackBerry Smartphones</td>
   </tr>
   <tr>  
-    <td><a href="https://github.com/blackberry/WebWorks-TabletOS" target="_blank">WebWorks-TabletOS</a></td>
+    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-TabletOS" target="_blank">WebWorks-TabletOS</a></td>
     <td>Contains all of the source code for the WebWorks platform and APIs for BlackBerry PlayBook</td>
   </tr>
   <tr>  
-    <td><a href="https://github.com/blackberry/WebWorks-API-Docs" target="_blank">WebWorks-API-Docs</a></td>
+    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-API-Docs" target="_blank">WebWorks-API-Docs</a></td>
     <td>Source code for the API documentation for the WebWorks platform</td>
   </tr>
   <tr>  
-    <td><a href="https://github.com/blackberry/WebWorks-Community-APIs" target="_blank">WebWorks-Community-APIs</a></td>
+    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-Community-APIs" target="_blank">WebWorks-Community-APIs</a></td>
     <td>Community built APIs built for both the Smartphone and Tablet OS.  These are not part of the official SDK</td>
   </tr>
   <tr>  
-    <td><a href="https://github.com/blackberry/WebWorks-Samples" target="_blank">WebWorks-Samples</a></td>
+    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-Samples" target="_blank">WebWorks-Samples</a></td>
     <td>Home for sample applications built with the BlackBerry WebWorks SDK</td>
   </tr>
 </table>
