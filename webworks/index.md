@@ -72,8 +72,8 @@ layout: default
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-Samples" target="_blank">WebWorks-Samples</a></td>
     <td>Home for sample applications built with the BlackBerry WebWorks SDK</td>
-  </tr>
   <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-Samples/contributors">See List</a></td>
+  </tr>
 </table>
 
 
