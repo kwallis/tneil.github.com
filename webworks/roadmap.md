@@ -5,7 +5,7 @@ layout: default
 
 # BlackBerry WebWorks Roadmap
 
-Roadmap tracking has now been moved to Github using their Milestones tracking.
+Roadmap tracking has now been moved to Github using Milestones.
 
 * [Roadmap for Smartphones](https://github.com/blackberry/WebWorks/issues/milestones?state=open)
 * [Roadmap for Tablet OS](https://github.com/blackberry/WebWorks-TabletOS/issues/milestones)
