@@ -5,10 +5,6 @@ layout: default
 
 # BlackBerry&reg; WebWorks
 
-**Roadmap and Progress:**
-
-* [Enhancement Candidates](enhancementCandidates.html)
-
 **Contributing:**
 
 * [BlackBerry WebWorks Contributors](contributors.html)
@@ -19,6 +15,10 @@ layout: default
 
 * [Download Smartphone WebWorks SDK Installer](http://us.blackberry.com/developers/browserdev/widgetsdk.jsp)
 * [Download Tablet OS WebWorks Installer](http://us.blackberry.com/developers/tablet/webworks.jsp)
+
+**Feature Requests:**
+
+* [Feature Requests](enhancementCandidates.html)
 
 BlackBerry&reg; WebWorks&trade; allows web and mobile web developers to use the SDK in combination with their development tooling of choice to develop, test and package up their web applications for BlackBerry tablets and smartphones. 
 
