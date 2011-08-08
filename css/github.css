@@ -19,24 +19,23 @@ table.outlined {
 	border-width: 1px;
 	border-spacing: 0px;
 	border-style: solid;
-	border-color: rgb(223, 223, 223);
+	border-color: #DFDFDF;
 	border-collapse: collapse;
-	background-color: white;
 }
 table.outlined th {
 	border-width: 1px;
-	padding: 1px;
+	padding: 2px;
 	border-style: inset;
-	border-color: rgb(223, 223, 223);
-	background-color: white;
+	border-color: #DFDFDF;
+	background-color: #DFDFDF;
+	font-weight: bold;
 	-moz-border-radius: ;
 }
 table.outlined td {
 	border-width: 1px;
-	padding: 1px;
+	padding: 2px;
 	border-style: inset;
 	border-color: rgb(223, 223, 223);
-	background-color: white;
 	-moz-border-radius: ;
 }
 
