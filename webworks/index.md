@@ -8,9 +8,9 @@ layout: default
 <table>
 	<tr>
 		<td><img src="../images/logo_webworks.png"/></td>
-		<td valign="top">
+		<td valign="top" style="padding-top:15px">
 			BlackBerry&reg; WebWorks&trade; allows web and mobile web developers to use the SDK in combination with their development tooling of choice to develop, test and package up their web applications for BlackBerry tablets and smartphones. 
-
+			<br/>
 The project is open sourced under the Apache 2.0 license. 
 		</td>
 	</tr>
@@ -32,7 +32,7 @@ The project is open sourced under the Apache 2.0 license.
 
 * [Feature Requests](enhancementCandidates.html)
 
-## Details
+## Project Details
 
 BlackBerry WebWorks is a unique platform in the mobile market and is designed to take the Web as a first class citizen to create full featured applications. It is built on three main strategic principles.
 
