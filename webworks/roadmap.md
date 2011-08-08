@@ -5,56 +5,10 @@ layout: default
 
 # BlackBerry WebWorks Roadmap
 
-Below you will find the **_tentative_** roadmap for BlackBerry&reg; WebWorks.  Scope and timelines are subject to change.
+Roadmap tracking has now been moved to Github using their Milestones tracking.
 
-You can also join the roadmap conversations on the [BlackBerry WebWorks Contributions forum](http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/bd-p/ww_con)
-
-
-### BlackBerry Services APIs
-
-We are working with the RIM internal groups responsible for BBM, Advertising, BlackBerry ID, Payment, Analytics and Push services SDKs
-to bring their APIs to the WebWorks Platform.  As this functionality becomes available it will be added to the scope of an in-flight release following a release train model.  
-
-If these APIs become available and are ready before the next version of the SDK ships, we will make them available for download through the API documentation.  Once the API has found its way into an official release, we will update the API documentation to show that the functionality is now part of the core SDK.
-
-### Echo Release - Smartphone [Early August]
-
-This is an update to the Smartphone SDK focusing on some incremental updates, bug fixes, and shipping a packaged BlackBerry 7 simulator. This release also includes items that provide HTML5 functionality on OS 5.0 out of the box instead of having to download a separate JavaScript toolkit.
-
-Scope:
-
-* Automatic insertion of the [HTML5 JavaScript toolkit](http://supportforums.blackberry.com/t5/Web-Development/Supporting-Gears-using-HTML5-in-BlackBerry-WebWorks-applications/ta-p/557280) for 5.0 devices
-* Microphone API
-* Inclusion of BB7 Smartphone Simulator
-* Fix for memory drain issue
-* Inclusion of the BB7 net_rim_api.jar library so that custom API extensions for BB6 and BB7 can also be used with WebWorks
-
-Stretch Goal:
-
-* Payment API
-
-### Foxtrot Release - Tablet [September]
-
-This update focuses on updating the Tablet SDK with the latest underlying components as well as some incremental improvements.
-
-Scope:
-
-* Fix for "Flicker" effect on app start-up when using loading screens
-* Investigation for increased app size on build seen in v2.1
-* New packaged simulator
-* New packaged Tablet OS SDK
-* Save & Read support for File API
-* blobToString() and stringToBlob() support
-
-### Golf Release - Smartphone [September]
-
-This update focuses on architectural enhancements as well as additional desktop platform support in preparation to be used with [[Ripple|https://github.com/blackberry/Ripple-UI]].
-
-Scope:
-
-* Service Oriented Architecture for API extensions to match that of the Tablet OS.  More JavaScript and less Java Scriptable objects.  Based on a RESTful API architecture.
-* Mac OS X support
-
+* [Roadmap for Smartphones](https://github.com/blackberry/WebWorks/issues/milestones?state=open)
+* [Roadmap for Tablet OS](https://github.com/blackberry/WebWorks-TabletOS/issues/milestones)
 
 ## Previous Releases
 
