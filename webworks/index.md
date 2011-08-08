@@ -59,11 +59,11 @@ layout: default
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-API-Docs" target="_blank">WebWorks-API-Docs</a></td>
-    <td>Source code for the API documentation for the WebWorks platform</td>
+    <td>Source code for the WebWorks API documentation</td>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-Community-APIs" target="_blank">WebWorks-Community-APIs</a></td>
-    <td>Community built APIs built for both the Smartphone and Tablet OS.  These are not part of the official SDK</td>
+    <td>Community built APIs for both the Smartphone and Tablet OS.  These are not part of the official SDK</td>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-Samples" target="_blank">WebWorks-Samples</a></td>
