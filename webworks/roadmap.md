@@ -3,7 +3,7 @@ title: BlackBerry WebWorks Roadmap
 layout: default
 ---
 
-# BlackBerry WebWorks Roadmap
+# BlackBerry&reg; WebWorks&trade; Roadmap
 
 Roadmap tracking has now been moved to Github using Milestones.
 
