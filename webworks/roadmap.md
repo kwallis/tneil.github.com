@@ -40,7 +40,7 @@ This update focuses on updating the Tablet SDK with the latest underlying compon
 Scope:
 
 * Fix for "Flicker" effect on app start-up when using loading screens
-* Fix for increased app size on build seen in v2.1
+* Investigation for increased app size on build seen in v2.1
 * New packaged simulator
 * New packaged Tablet OS SDK
 * Save & Read support for File API
