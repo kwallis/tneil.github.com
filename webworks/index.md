@@ -17,6 +17,18 @@ layout: default
 
 </table>
 
+**SDK Roadmap:**
+
+* [Roadmap for Smartphones](https://github.com/blackberry/WebWorks/issues/milestones?state=open)
+* [Roadmap for Tablet OS](https://github.com/blackberry/WebWorks-TabletOS/issues/milestones)
+* [Previous Releases before Github was used for tracking Milestones](roadmap.html)
+
+**Feature Requests:**
+
+* [Feature Requests for Smartphones](https://github.com/blackberry/WebWorks/issues?sort=created&labels=Request&direction=desc&state=open)
+* [Feature Requests for Tablet OS](https://github.com/blackberry/WebWorks-TabletOS/issues?labels=Request&sort=created&direction=desc&state=open&page=1)
+
+
 **Contributing:**
 
 * [BlackBerry WebWorks Contributors](contributors.html)
@@ -28,9 +40,7 @@ layout: default
 * [Download Smartphone WebWorks SDK Installer](http://us.blackberry.com/developers/browserdev/widgetsdk.jsp)
 * [Download Tablet OS WebWorks SDK Installer](http://us.blackberry.com/developers/tablet/webworks.jsp)
 
-**Feature Requests:**
 
-* [Feature Requests](enhancementCandidates.html)
 
 ## Source Repositories
 
