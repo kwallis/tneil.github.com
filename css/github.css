@@ -29,6 +29,7 @@ table.outlined th {
 	border-color: #DFDFDF;
 	background-color: #DFDFDF;
 	font-weight: bold;
+	text-align: left;
 	-moz-border-radius: ;
 }
 table.outlined td {
