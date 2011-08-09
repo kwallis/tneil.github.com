@@ -2,30 +2,30 @@
 layout: default
 ---
 <div id="posts">
-  <ol>
+  <div>
     {% for post in site.posts %}
-    <li>
+    <div>
       {% include post.html %}
-    </li>
+    </div>
     {% endfor %}
-  </ol>
+  </div>
 
   {% if site.total_pages > 1 %}
   <div id="pagination">
-    <ol>
+    <div>
       {% if site.previous_page > 1 %}
         {% capture page_url %}page{{ page }}{% endcapture%}
       {% endif %}
       {% if site.previous_page %}
-      <li>
+      <div>
         <a href="/{{ page_url }}" title="Go to previous page">
           &laquo;
         </a>
-      </li>
+      </div>
       {% endif %}
-      <li>
+      <div>
       {% for page in (1..site.total_pages) %}
-      <li>
+      <div>
         {% if page > 1 %}
           {% capture page_url %}page{{ page }}{% endcapture%}
         {% endif %}
@@ -37,11 +37,11 @@ layout: default
       </li>
       {% endfor %}
       {% if site.next_page %}
-      <li>
+      <div>
         <a href="/page{{ site.next_page }}" title="Go to next page">
           &raquo;
         </a>
-      </li>
+      </div>
       {% endif %}
     </ol>
   </div>
