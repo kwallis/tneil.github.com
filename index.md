@@ -4,8 +4,6 @@ layout: default
 ---
 # Research In Motion at GitHub
 
-## Overview
-
 Welcome to the home for [RIM](http://rim.com) projects at GitHub.  
 
 The first repository in this [organization](https://github.com/blog/674-introducing-organizations) was [WebWorks](https://github.com/blackberry/WebWorks/commit/1a7373cb155756fb6be7ccce893d6d790ec10abf), created during [DevCon 2010](http://devblog.blackberry.com/2010/09/blackberry-webworks-and-the-open-source-community/).  Since then we have added six more repositories covering runtimes, tools, documentation, and code samples and we expect more projects to follow.
