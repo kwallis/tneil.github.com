@@ -1,5 +1,4 @@
 ---
-Date: Aug 8, 2010
 title: My Test Post
 layout: post
 ---
