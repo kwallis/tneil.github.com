@@ -8,14 +8,14 @@ title: Latest News
 <div id="posts">
   <div>
     {% for post in site.posts %}
-    <div>
+    <div style="border-bottom: 1px solid #DFDFDF;">
       {% include post.html %}
     </div>
     {% endfor %}
   </div>
 
   {% if site.total_pages > 1 %}
-  <div id="pagination">
+  <div>
     <div>
       {% if site.previous_page > 1 %}
         {% capture page_url %}page{{ page }}{% endcapture%}
@@ -47,7 +47,7 @@ title: Latest News
         </a>
       </div>
       {% endif %}
-    </ol>
+    </div>
   </div>
   {% endif %}
 </div>
