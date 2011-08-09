@@ -1,42 +1,16 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
-		<link id="stylesheet" href="" rel="stylesheet" type="text/css"></link>
+		<link id="stylesheet" href="{{ site.base-url }}/css/github.css" rel="stylesheet" type="text/css"></link>
 		<script type="text/javascript">
 		
-			var rootPath = 'http://' + document.location.host;
-		
-			function updateURLs() {
-				// Insert Stylesheet
-				/*var link = document.createElement('link');
-				link.setAttribute('href', rootPath + '/css/github.css');
-				link.setAttribute('rel', 'stylesheet');
-				link.setAttribute('type', 'text/css');
-				document.head.appendChild(link);*/
-				
-				updateLink(document.getElementById('stylesheet'), '/css/github.css');
-				
-				// Update anchor tags via brute force for old IE usage
-				updateLink(document.getElementById('howToContribute'), '/howToContribute.html');
-				updateLink(document.getElementById('approvedSignatories'), '/approvedSignatories.html');
-				updateLink(document.getElementById('webworks'), '/webworks/index.html');
-				updateLink(document.getElementById('latestNews'), '/news/index.md');
-				updateLink(document.getElementById('allNews'), '/news/archive.md');
-			}
-			
-			function updateLink(link, path) {
-				var href = rootPath + path;
-				//link.setAttribute('href', href);
-				link.href = href;
-			}
-			
 			function logoClick() {
-				document.location = rootPath;
+				document.location = 'http://' + document.location.host;
 			}		
 			
 		</script>
 	</head>
-	<body onload="updateURLs()">
+	<body>
 		<div class="header">
 			<div class="logo" onclick="logoClick()">&nbsp;</div>
 			<div class="github-logo" onclick="document.location='http://.github.com/blackberry'">&nbsp;</div>
@@ -55,18 +29,19 @@
 					<td valign="top" class="menu-column">
 						<div class="menu">
 							<div class="menu-header">Contributing</div>
-							<div class="menu-item"><a id="howToContribute" href="">How To Contribute</a></div>
-							<div class="menu-item"><a id="approvedSignatories" href="">Approved Signatories</a></div>
+							<div class="menu-item"><a id="howToContribute" href="{{ site.base-url }}/howToContribute.html">How To Contribute</a></div>
+							<div class="menu-item"><a id="approvedSignatories" href="{{ site.base-url }}/approvedSignatories.html">Approved Signatories</a></div>
 							<!-- Projects -->
 							<div class="menu-header">Projects</div>
-							<div class="menu-item"><a id="webworks" href="">BlackBerry WebWorks</a></div>
+							<div class="menu-item"><a id="webworks" href="{{ site.base-url }}/webworks/index.html">BlackBerry WebWorks</a></div>
 							<!-- Coming Soon -->
 							<div class="menu-header">Coming Soon</div>
 							<div class="menu-item">Ripple</div>
-							<!-- News -->
+							<div class="menu-item">WebKit</div>
+a							<!-- News -->
 							<div class="menu-header">News</div>
-							<div class="menu-item"><a id="latestNews" href="">TAT's Aura now OSS</a></div>
-							<div class="menu-item"><a id="allNews" href="">More News</a></div>
+							<div class="menu-item"><a id="news" href="">TAT's Aura now OSS</a></div>
+							<div class="menu-item"><a id="news" href="">More News</a></div>
 						</div>
 					</td>
 				<tr>

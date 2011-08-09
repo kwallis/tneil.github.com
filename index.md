@@ -2,14 +2,14 @@
 title: BlackBerry Open Source
 layout: default
 ---
-
 # Research In Motion at GitHub
 
 ## Overview
 
 Welcome to the home for [RIM](http://rim.com) projects at GitHub.  
 
-The first repository in this [organization](https://github.com/blog/674-introducing-organizations) was [WebWorks](https://github.com/blackberry/WebWorks/commit/1a7373cb155756fb6be7ccce893d6d790ec10abf), created during [DevCon 2010](http://devblog.blackberry.com/2010/09/blackberry-webworks-and-the-open-source-community/).  Since then we have added six more repositories covering runtimes, tools, documentation, and code samples.  We expect more projects to follow.
+The first repository in this [organization](https://github.com/blog/674-introducing-organizations) was [WebWorks](https://github.com/blackberry/WebWorks/commit/1a7373cb155756fb6be7ccce893d6d790ec10abf), created during [DevCon 2010](http://devblog.blackberry.com/2010/09/blackberry-webworks-and-the-open-source-community/).  Since then we have added six more repositories covering runtimes, tools, documentation, and code samples and we expect more projects to follow.
+For the latest, and an archive of older, news, check [here](news); also see the official [BlackBerry DevBlog](http://devblog.blackberry.com/).
 
 Projects fall into one of the following categories:
 
@@ -39,10 +39,20 @@ Projects are encouraged to maintain information in these pages.  Using WebWorks 
 
 ## List of Repositories
 
-Currently, all 7 repositories are RIM-led projects.
+### WebWorks
+1. [WebWorks](http://github.com/blackberry/WebWorks) - The runtime for the BlackBerry OS Platform.
+1. [WebWorks-TabletOS](http://github.com/blackberry/WebWorks-TabletOS) - The runtime for the QNX-based BlackBerry Tablet OS Platform.
+1. [WebWorks-API-Docs](https://github.com/blackberry/WebWorks-API-Docs) - The official API documentation.
+1. [WebWorks-Samples](https://github.com/blackberry/WebWorks-Samples) - RIM and Community-provided samples for WebWorks.
+1. [WebWorks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs) - New APIs, contributed by RIM and the Community, that could be considered for move to the official APIs.
 
-**Web Area**
+### Ripple Emulator
+1. [Ripple-Framework](https://github.com/blackberry/Ripple-Framework) - Basic Framework for the Ripple Emulator
+1. [Ripple-UI](https://github.com/blackberry/Ripple-UI) - Presentation elements for Ripple.
 
-1. WebWorks Runtimes: [SmartPhone] and [TabletOS]
-1. aaa
+### WebKit
+1. [WebKit-SmartPhone](https://github.com/blackberry/WebKit-Smartphone) - RIM contributions to WebKit for BlackBerry Smartphones.
+
+WebWorks and Ripple are RIM-led projects.  These repositories are the "master" repositories.
+WebKit is maintained by the [WebKit.org](http://webkit.org) community.
 
