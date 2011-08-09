@@ -31,8 +31,8 @@ Projects are encouraged to maintain information in these pages.  Using WebWorks 
 * Top Project [description page](webworks/index.html).
 * The master [Git](http://en.wikipedia.org/wiki/Git_%28software%29) repository at GitHub at [blackberry/webworks](http://github.com/blackberry/WebWorks), including:
 * The usual GitHub features, like [pulls](https://github.com/blackberry/WebWorks/pulls), [commit history](https://github.com/blackberry/WebWorks/commits/master), [network graph](https://github.com/blackberry/WebWorks/network), etc.
-* The list of [Contributors to WebWorks](contributors.html),
-* A Project [Roadmap](webworks/roadmap.html),
+* The list of [Contributors to WebWorks](https://github.com/blackberry/WebWorks/contributors),
+* A Project [Roadmap](https://github.com/blackberry/WebWorks/issues/milestones),
 * Defect tracking via [GitHub Issues](https://github.com/blackberry/WebWorks/issues)
 
 ## List of Repositories
